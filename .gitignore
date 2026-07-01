@@ -1,0 +1,17 @@
+# Local tooling / editors
+.claude/
+.vscode/
+.idea/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch files / screenshots that aren't part of the lab
+1.png
+*.local.json
+
+# Runtime artifacts created only on a deployed server
+evilcorp_loot.json
+safevault_sessions.json
